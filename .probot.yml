@@ -2,4 +2,5 @@ behaviors:
           - on: issues.opened
             then:
               comment: "Hello world"
+              react: "heart"
             
