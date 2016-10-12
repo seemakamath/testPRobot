@@ -1,5 +1,5 @@
 behaviors:
           - on: issues.opened
             then:
-              react: "heart"
+              comment: "Hello world"
             
