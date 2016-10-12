@@ -1,0 +1,4 @@
+behaviors:
+          - on: issues.opened
+            then:
+              comment: "Hello World! Your bot is working!"
